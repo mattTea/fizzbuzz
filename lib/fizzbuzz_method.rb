@@ -5,4 +5,4 @@ def fizzbuzz(number)
   return number
 end
 
-# (1..100).each { |number| puts fizzbuzz(number) }
+# to run -> (1..100).each { |number| puts fizzbuzz(number) }
